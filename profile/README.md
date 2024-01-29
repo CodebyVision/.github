@@ -9,7 +9,10 @@
 
 
 ## Projects from CodebyVision
+- TrinityGaming Launcher
 - Oracle Launcher v1
 - Oracle Launcher v2
 - Oracle Lite Launcher
-- TrinityGaming Launcher
+- Trinity Item Creator
+- Trinity Configs Migrator
+- Trinity Configs Manager
