@@ -9,10 +9,15 @@
 
 
 ## Projects from CodebyVision
-- TrinityGaming Launcher
 - Oracle Launcher v1
 - Oracle Launcher v2
 - Oracle Lite Launcher
+- TrinityGaming Lineage 2Launcher
+- Talking Island v1 Lineage 2 Launcher
+- Talking Island v2 Lineage 2 Launcher
+- Rebellion Lineage 2 Launcher
+- Nocturn Lineage 2 Launcher
+- Classic.eu Lineage 2 Launcher
 - Trinity Item Creator
 - Trinity Configs Migrator
 - Trinity Configs Manager
