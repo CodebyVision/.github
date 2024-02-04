@@ -7,6 +7,12 @@
 
 > 🤖 Discord server: https://discord.com/invite/Gs9TzsgRVG
 
+## Launcher Demos
+
+> 🌐 Oracle Lite launcher demo: https://oracle-lite.demo.codebyvision.net/
+
+> 🌐 Oracle Launcher v2 demo: https://oracle-2.demo.codebyvision.net/ 
+
 
 ## Projects from CodebyVision
 - World of warcraft launchers
