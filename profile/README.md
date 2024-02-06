@@ -13,6 +13,7 @@
 
 > 🌐 Oracle Launcher v2 demo: https://oracle-2.demo.codebyvision.net/ 
 
+> 🌐 Oracle Launcher v1 demo: https://oracle-1.demo.codebyvision.net/ 
 
 ## Projects from CodebyVision
 - World of warcraft launchers
