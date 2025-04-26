@@ -1,10 +1,3 @@
 ## CodebyVision organization!👋
 
-
-> 🌐 Website: https://codebyvision.net
-
-> 🤖 Discord server: https://discord.codebyvision.net
-
-## Projects from CodebyVision
-- World of warcraft launchers
-- Lineage launchers
+> 🤖 Discord server: [https://discord.codebyvision.net](https://discord.com/invite/Gs9TzsgRVG)
