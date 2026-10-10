@@ -17,4 +17,4 @@ Our goal is to help communities grow by providing tools that are **easy to use**
 ## Get in touch
 Have a project in mind?
 
-[https://discord.com/invite/Gs9TzsgRVG](https://discord.com/invite/Gs9TzsgRVG) or reach out — we’re always excited to collaborate.
+[https://codebyvision.net](https://codebyvision.net)
